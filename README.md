@@ -15,3 +15,8 @@ List of courses completed :
 8. Quantization in Depth ()
 9. Introduction to on-device AI ()
 10. Open Source Models with Hugging Face ()
+
+
+
+Full credits and Big Thank you :
+Deep learning Team (https://learn.deeplearning.ai/)
