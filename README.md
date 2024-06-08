@@ -14,7 +14,7 @@ List of courses completed :
 7. Quantization Fundamentals (https://learn.deeplearning.ai/accomplishments/070b804a-dedd-4449-8edd-128612ce4809?usp=sharing)
 8. Quantization in Depth (https://learn.deeplearning.ai/accomplishments/12678423-b81a-47e6-bb6f-0f31281a3454?usp=sharing)
 9. Introduction to on-device AI ()
-10. Open Source Models with Hugging Face ()
+10. Open Source Models with Hugging Face (https://learn.deeplearning.ai/accomplishments/369d2d0e-3dd7-45f3-af01-24e92d9c5f93?usp=sharing)
 
 
 
