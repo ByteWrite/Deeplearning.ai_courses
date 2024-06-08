@@ -11,7 +11,7 @@ List of courses completed :
 4. Building Agentic RAG with Llamaindex (https://learn.deeplearning.ai/accomplishments/c737fa57-dba1-44a1-9556-6800d27b007c?usp=sharing)
 5. AI Agentic Design Patterns with AutoGen (https://learn.deeplearning.ai/accomplishments/56b0cdc5-8a17-422f-99af-d5d212fc73dd?usp=sharing)
 6. Building and Evaluating Advanced RAG ()
-7. Quantization Fundamentals ()
+7. Quantization Fundamentals (https://learn.deeplearning.ai/accomplishments/070b804a-dedd-4449-8edd-128612ce4809?usp=sharing)
 8. Quantization in Depth ()
 9. Introduction to on-device AI ()
 10. Open Source Models with Hugging Face ()
