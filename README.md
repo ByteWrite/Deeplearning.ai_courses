@@ -12,8 +12,8 @@ List of courses completed :
 ## Retrieval Augmented Generation (RAG) :
 4. Building Agentic RAG with Llamaindex (https://learn.deeplearning.ai/accomplishments/c737fa57-dba1-44a1-9556-6800d27b007c?usp=sharing)
 5. AI Agentic Design Patterns with AutoGen (https://learn.deeplearning.ai/accomplishments/56b0cdc5-8a17-422f-99af-d5d212fc73dd?usp=sharing)
-6. Building and Evaluating Advanced RAG ()
-7. Building Multimodal Search and RAG ()
+6. Building and Evaluating Advanced RAG (https://learn.deeplearning.ai/accomplishments/baa19e7c-e229-4da3-9ec1-fa5af3917b10?usp=sharing)
+7. Building Multimodal Search and RAG (https://learn.deeplearning.ai/accomplishments/0c05a73b-56b8-4422-8c2c-bfc0d00045f5?usp=sharing)
 ## Quantizations :
 8. Quantization Fundamentals (https://learn.deeplearning.ai/accomplishments/070b804a-dedd-4449-8edd-128612ce4809?usp=sharing)
 9. Quantization in Depth (https://learn.deeplearning.ai/accomplishments/12678423-b81a-47e6-bb6f-0f31281a3454?usp=sharing)
