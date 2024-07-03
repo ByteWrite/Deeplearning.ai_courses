@@ -11,22 +11,22 @@ List of courses completed :
 3. Vector Databases: from Embeddings to Applications (https://learn.deeplearning.ai/accomplishments/b3eea0f1-2328-4e6a-b2a9-48ae86b0e459?usp=sharing)
 4. Getting Started with Mistral (https://learn.deeplearning.ai/accomplishments/ba274346-981b-4a0a-99ed-02ee85602f8b?usp=sharing)
 ## Retrieval Augmented Generation (RAG) :
-4. Building Agentic RAG with Llamaindex (https://learn.deeplearning.ai/accomplishments/c737fa57-dba1-44a1-9556-6800d27b007c?usp=sharing)
-5. AI Agentic Design Patterns with AutoGen (https://learn.deeplearning.ai/accomplishments/56b0cdc5-8a17-422f-99af-d5d212fc73dd?usp=sharing)
-6. Building and Evaluating Advanced RAG (https://learn.deeplearning.ai/accomplishments/baa19e7c-e229-4da3-9ec1-fa5af3917b10?usp=sharing)
-7. Building Multimodal Search and RAG (https://learn.deeplearning.ai/accomplishments/0c05a73b-56b8-4422-8c2c-bfc0d00045f5?usp=sharing)
-8. JavaScript RAG Web Apps with LlamaIndex (https://learn.deeplearning.ai/accomplishments/40c128ea-d988-4639-b53d-4daa1196079e?usp=sharing)
+5. Building Agentic RAG with Llamaindex (https://learn.deeplearning.ai/accomplishments/c737fa57-dba1-44a1-9556-6800d27b007c?usp=sharing)
+6. AI Agentic Design Patterns with AutoGen (https://learn.deeplearning.ai/accomplishments/56b0cdc5-8a17-422f-99af-d5d212fc73dd?usp=sharing)
+7. Building and Evaluating Advanced RAG (https://learn.deeplearning.ai/accomplishments/baa19e7c-e229-4da3-9ec1-fa5af3917b10?usp=sharing)
+8. Building Multimodal Search and RAG (https://learn.deeplearning.ai/accomplishments/0c05a73b-56b8-4422-8c2c-bfc0d00045f5?usp=sharing)
+9. JavaScript RAG Web Apps with LlamaIndex (https://learn.deeplearning.ai/accomplishments/40c128ea-d988-4639-b53d-4daa1196079e?usp=sharing)
 ## Quantizations :
-8. Quantization Fundamentals (https://learn.deeplearning.ai/accomplishments/070b804a-dedd-4449-8edd-128612ce4809?usp=sharing)
-9. Quantization in Depth (https://learn.deeplearning.ai/accomplishments/12678423-b81a-47e6-bb6f-0f31281a3454?usp=sharing)
+10. Quantization Fundamentals (https://learn.deeplearning.ai/accomplishments/070b804a-dedd-4449-8edd-128612ce4809?usp=sharing)
+11. Quantization in Depth (https://learn.deeplearning.ai/accomplishments/12678423-b81a-47e6-bb6f-0f31281a3454?usp=sharing)
 ## On-device AI :
-10. Introduction to on-device AI (https://learn.deeplearning.ai/accomplishments/e5e8ad6e-6924-47bb-8ae6-67338b3d634c?usp=sharing)
+12. Introduction to on-device AI (https://learn.deeplearning.ai/accomplishments/e5e8ad6e-6924-47bb-8ae6-67338b3d634c?usp=sharing)
 ## Exploring Open Source Hugging Face Models :
-11. Open Source Models with Hugging Face (https://learn.deeplearning.ai/accomplishments/369d2d0e-3dd7-45f3-af01-24e92d9c5f93?usp=sharing)
+13. Open Source Models with Hugging Face (https://learn.deeplearning.ai/accomplishments/369d2d0e-3dd7-45f3-af01-24e92d9c5f93?usp=sharing)
 ## Semantic search :
-12. Large Language Models with Semantic Search (https://learn.deeplearning.ai/accomplishments/3b1416d4-18ba-4114-ba31-20b2d464b847?usp=sharing)
+14. Large Language Models with Semantic Search (https://learn.deeplearning.ai/accomplishments/3b1416d4-18ba-4114-ba31-20b2d464b847?usp=sharing)
 ## Carbon aware computing : 
-13. Carbon Aware Computing for GenAI developers (https://learn.deeplearning.ai/accomplishments/914d6040-3574-4521-a3b3-b2b352496b9a?usp=sharing)
+15. Carbon Aware Computing for GenAI developers (https://learn.deeplearning.ai/accomplishments/914d6040-3574-4521-a3b3-b2b352496b9a?usp=sharing)
 
 
 
