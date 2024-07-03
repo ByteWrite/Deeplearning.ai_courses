@@ -9,6 +9,7 @@ List of courses completed :
 1. ChatGPT Prompt Engineering for Developers (https://learn.deeplearning.ai/accomplishments/f8c4a915-7ad0-4355-96e3-ee5938f018cc?usp=sharing)
 2. Building Generative AI Applications with Gradio (https://learn.deeplearning.ai/accomplishments/a130cb91-c7ed-46d9-8abb-69f98d939b96?usp=sharing)
 3. Vector Databases: from Embeddings to Applications (https://learn.deeplearning.ai/accomplishments/b3eea0f1-2328-4e6a-b2a9-48ae86b0e459?usp=sharing)
+4. Getting Started with Mistral (https://learn.deeplearning.ai/accomplishments/ba274346-981b-4a0a-99ed-02ee85602f8b?usp=sharing)
 ## Retrieval Augmented Generation (RAG) :
 4. Building Agentic RAG with Llamaindex (https://learn.deeplearning.ai/accomplishments/c737fa57-dba1-44a1-9556-6800d27b007c?usp=sharing)
 5. AI Agentic Design Patterns with AutoGen (https://learn.deeplearning.ai/accomplishments/56b0cdc5-8a17-422f-99af-d5d212fc73dd?usp=sharing)
