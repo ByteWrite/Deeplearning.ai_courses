@@ -24,6 +24,9 @@ List of courses completed :
 11. Open Source Models with Hugging Face (https://learn.deeplearning.ai/accomplishments/369d2d0e-3dd7-45f3-af01-24e92d9c5f93?usp=sharing)
 ## Semantic search :
 12. Large Language Models with Semantic Search (https://learn.deeplearning.ai/accomplishments/3b1416d4-18ba-4114-ba31-20b2d464b847?usp=sharing)
+## Carbon aware computing : 
+13. Carbon Aware Computing for GenAI developers (https://learn.deeplearning.ai/accomplishments/914d6040-3574-4521-a3b3-b2b352496b9a?usp=sharing)
+
 
 
 
