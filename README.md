@@ -17,6 +17,8 @@ List of courses completed :
 8. Building Multimodal Search and RAG (https://learn.deeplearning.ai/accomplishments/0c05a73b-56b8-4422-8c2c-bfc0d00045f5?usp=sharing)
 9. JavaScript RAG Web Apps with LlamaIndex (https://learn.deeplearning.ai/accomplishments/40c128ea-d988-4639-b53d-4daa1196079e?usp=sharing)
 10. Building Your Own Database Agent (https://learn.deeplearning.ai/accomplishments/6ba8c67f-3592-42b5-8a1d-1b14c818d770?usp=sharing)
+## LangChain :
+11. LangChain for LLM Application Development(https://learn.deeplearning.ai/accomplishments/96dd7d0f-398e-4929-aa68-2513e4115f04?usp=sharing)
 ## Quantizations :
 10. Quantization Fundamentals (https://learn.deeplearning.ai/accomplishments/070b804a-dedd-4449-8edd-128612ce4809?usp=sharing)
 11. Quantization in Depth (https://learn.deeplearning.ai/accomplishments/12678423-b81a-47e6-bb6f-0f31281a3454?usp=sharing)
