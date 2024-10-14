@@ -13,6 +13,7 @@ List of courses completed :
 5. Large Multimodal Model Prompting with Gemini: (https://learn.deeplearning.ai/accomplishments/c03ef080-3028-4efd-90c6-249e552612dd?usp=sharing)
 6. Introducing Multimodal Llama 3.2: (https://learn.deeplearning.ai/accomplishments/284caa7a-0643-4657-b76b-77986ccc1649?usp=sharing)
 7. LLMOps: (https://learn.deeplearning.ai/accomplishments/3741e4d2-a989-4a21-940c-1448349cb7a9?usp=sharing)
+8. Reinforcement Learning From Human Feedback: (https://learn.deeplearning.ai/accomplishments/78e1ca59-6f72-4000-a822-dd7b56b9dc34?usp=sharing)
 ## Retrieval Augmented Generation (RAG) :
 5. Building Agentic RAG with Llamaindex (https://learn.deeplearning.ai/accomplishments/c737fa57-dba1-44a1-9556-6800d27b007c?usp=sharing)
 6. AI Agentic Design Patterns with AutoGen (https://learn.deeplearning.ai/accomplishments/56b0cdc5-8a17-422f-99af-d5d212fc73dd?usp=sharing)
