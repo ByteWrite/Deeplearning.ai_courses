@@ -34,6 +34,8 @@ List of courses completed :
 14. Large Language Models with Semantic Search (https://learn.deeplearning.ai/accomplishments/3b1416d4-18ba-4114-ba31-20b2d464b847?usp=sharing)
 ## Carbon aware computing : 
 15. Carbon Aware Computing for GenAI developers (https://learn.deeplearning.ai/accomplishments/914d6040-3574-4521-a3b3-b2b352496b9a?usp=sharing)
+## Vision models :
+22. Prompt Engineering for Vision Models (https://learn.deeplearning.ai/accomplishments/ec9d979a-a7fc-492a-9d41-db144e711b5d?usp=sharing)
 
 
 
