@@ -15,6 +15,7 @@ List of courses completed :
 7. LLMOps: (https://learn.deeplearning.ai/accomplishments/3741e4d2-a989-4a21-940c-1448349cb7a9?usp=sharing)
 8. Reinforcement Learning From Human Feedback: (https://learn.deeplearning.ai/accomplishments/78e1ca59-6f72-4000-a822-dd7b56b9dc34?usp=sharing)
 9. Building an AI-Powered Game: (https://learn.deeplearning.ai/accomplishments/6c8b08b2-5836-4b12-aff8-995c30097a7e?usp=sharing)
+10. Collaborative Writing and Coding with OpenAI Canvas: (https://learn.deeplearning.ai/accomplishments/1bc53e80-0a42-408d-8a98-afd525254710?usp=sharing)
 ## Retrieval Augmented Generation (RAG) :
 5. Building Agentic RAG with Llamaindex (https://learn.deeplearning.ai/accomplishments/c737fa57-dba1-44a1-9556-6800d27b007c?usp=sharing)
 6. AI Agentic Design Patterns with AutoGen (https://learn.deeplearning.ai/accomplishments/56b0cdc5-8a17-422f-99af-d5d212fc73dd?usp=sharing)
