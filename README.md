@@ -23,6 +23,7 @@ List of courses completed :
 8. Building Multimodal Search and RAG (https://learn.deeplearning.ai/accomplishments/0c05a73b-56b8-4422-8c2c-bfc0d00045f5?usp=sharing)
 9. JavaScript RAG Web Apps with LlamaIndex (https://learn.deeplearning.ai/accomplishments/40c128ea-d988-4639-b53d-4daa1196079e?usp=sharing)
 10. Building Your Own Database Agent (https://learn.deeplearning.ai/accomplishments/6ba8c67f-3592-42b5-8a1d-1b14c818d770?usp=sharing)
+11. Understanding and Applying Text Embeddings (https://learn.deeplearning.ai/accomplishments/19aa208f-6513-49d1-ac8d-b07aa651d847?usp=sharing)
 ## LangChain :
 11. LangChain for LLM Application Development(https://learn.deeplearning.ai/accomplishments/96dd7d0f-398e-4929-aa68-2513e4115f04?usp=sharing)
 ## Quantizations :
@@ -38,6 +39,7 @@ List of courses completed :
 15. Carbon Aware Computing for GenAI developers (https://learn.deeplearning.ai/accomplishments/914d6040-3574-4521-a3b3-b2b352496b9a?usp=sharing)
 ## Vision models :
 22. Prompt Engineering for Vision Models (https://learn.deeplearning.ai/accomplishments/ec9d979a-a7fc-492a-9d41-db144e711b5d?usp=sharing)
+23. Multimodal RAG: Chat with Videos (https://learn.deeplearning.ai/accomplishments/19aa208f-6513-49d1-ac8d-b07aa651d847?usp=sharing)
 
 
 
