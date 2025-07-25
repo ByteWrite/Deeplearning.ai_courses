@@ -17,6 +17,7 @@ List of courses completed :
 9. Building an AI-Powered Game: (https://learn.deeplearning.ai/accomplishments/6c8b08b2-5836-4b12-aff8-995c30097a7e?usp=sharing)
 10. Collaborative Writing and Coding with OpenAI Canvas: (https://learn.deeplearning.ai/accomplishments/1bc53e80-0a42-408d-8a98-afd525254710?usp=sharing)
 11. Getting Structured LLM Output (https://learn.deeplearning.ai/accomplishments/c4766007-55a0-492f-bcde-698a2b523184?usp=sharing)
+12. Building Systems with the ChatGPT API (https://learn.deeplearning.ai/accomplishments/9b55527e-41c1-40ee-9cf1-1aad02d6c094?usp=sharing)
 ## Retrieval Augmented Generation (RAG) :
 5. Building Agentic RAG with Llamaindex (https://learn.deeplearning.ai/accomplishments/c737fa57-dba1-44a1-9556-6800d27b007c?usp=sharing)
 6. AI Agentic Design Patterns with AutoGen (https://learn.deeplearning.ai/accomplishments/56b0cdc5-8a17-422f-99af-d5d212fc73dd?usp=sharing)
