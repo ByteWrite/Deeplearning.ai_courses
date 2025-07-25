@@ -18,8 +18,6 @@ List of courses completed :
 10. Collaborative Writing and Coding with OpenAI Canvas: (https://learn.deeplearning.ai/accomplishments/1bc53e80-0a42-408d-8a98-afd525254710?usp=sharing)
 11. Getting Structured LLM Output (https://learn.deeplearning.ai/accomplishments/c4766007-55a0-492f-bcde-698a2b523184?usp=sharing)
 12. Building Systems with the ChatGPT API (https://learn.deeplearning.ai/accomplishments/9b55527e-41c1-40ee-9cf1-1aad02d6c094?usp=sharing)
-13. LangChain Chat with Your Data (https://learn.deeplearning.ai/accomplishments/4b67f978-ab81-4d5d-9b92-dbc9b6335ee3?usp=sharing)
-14. 
 
 ## Retrieval Augmented Generation (RAG) :
 5. Building Agentic RAG with Llamaindex (https://learn.deeplearning.ai/accomplishments/c737fa57-dba1-44a1-9556-6800d27b007c?usp=sharing)
@@ -31,6 +29,7 @@ List of courses completed :
 11. Understanding and Applying Text Embeddings (https://learn.deeplearning.ai/accomplishments/19aa208f-6513-49d1-ac8d-b07aa651d847?usp=sharing)
 ## LangChain :
 11. LangChain for LLM Application Development(https://learn.deeplearning.ai/accomplishments/96dd7d0f-398e-4929-aa68-2513e4115f04?usp=sharing)
+12. LangChain Chat with Your Data (https://learn.deeplearning.ai/accomplishments/4b67f978-ab81-4d5d-9b92-dbc9b6335ee3?usp=sharing)
 ## Quantizations :
 10. Quantization Fundamentals (https://learn.deeplearning.ai/accomplishments/070b804a-dedd-4449-8edd-128612ce4809?usp=sharing)
 11. Quantization in Depth (https://learn.deeplearning.ai/accomplishments/12678423-b81a-47e6-bb6f-0f31281a3454?usp=sharing)
