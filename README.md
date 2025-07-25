@@ -30,6 +30,7 @@ List of courses completed :
 ## LangChain :
 11. LangChain for LLM Application Development(https://learn.deeplearning.ai/accomplishments/96dd7d0f-398e-4929-aa68-2513e4115f04?usp=sharing)
 12. LangChain Chat with Your Data (https://learn.deeplearning.ai/accomplishments/4b67f978-ab81-4d5d-9b92-dbc9b6335ee3?usp=sharing)
+13. Functions, Tools and Agents with LangChain (https://learn.deeplearning.ai/accomplishments/26f4eac7-e695-4dfd-9cb7-d2e06bc7befb?usp=sharing)
 ## Quantizations :
 10. Quantization Fundamentals (https://learn.deeplearning.ai/accomplishments/070b804a-dedd-4449-8edd-128612ce4809?usp=sharing)
 11. Quantization in Depth (https://learn.deeplearning.ai/accomplishments/12678423-b81a-47e6-bb6f-0f31281a3454?usp=sharing)
